@@ -3,6 +3,7 @@
 
 disable=
       C0114,  # Missing module docstring
+      C0115,  # Missing class docstring
       E0015,  # Found `f` string
       C0116,  # Missing function or method docstring
       C0305,  # Trailing newlines
